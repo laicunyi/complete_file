@@ -9,4 +9,12 @@
   <view class="button-sp-area">
     <button class="weui-btn" type="primary" plain="true" bindtap='into_example'>我知道了</button>
   </view>
+
+  <view class="weui-cells weui-cells_after-title" style='margin-top:20px;'>
+    <navigator url="/pages/scrollView/scrollView" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+        <view class="weui-cell__bd">scroll-view</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">点击查看</view>
+    </navigator>
+  </view>
+
 </view>

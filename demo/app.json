@@ -1,8 +1,10 @@
 {
   "pages": [
-    "pages/index/index",
     "example/index",
-
+    "pages/index/index",
+    "pages/scrollView/scrollView",
+    
+    
 
     "example/button/button",
     "example/list/list",
